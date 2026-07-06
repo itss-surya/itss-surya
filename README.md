@@ -68,7 +68,11 @@
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=itss-surya" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
