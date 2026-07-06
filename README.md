@@ -1,69 +1,81 @@
-<h1 align="left">Hey 👋 I'm Surya</h1>
+<h1 data-importer="text" align="left">Hey 👋 I'm Surya</h1>
 
-<p align="left">
-Building innovative web applications, exploring AI, and continuously learning new technologies.
-</p>
+###
 
-<p align="center">
-  <img height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhZzJpNjQxeHRpbGZ0dXk3eGFvNTN1NndiNTdsN3J4a3NobXo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif"/>
-</p>
+<p data-importer="text" align="left">Building innovative web applications, exploring AI, and continuously learning new technologies.</p>
 
----
+###
 
-## 💫 About Me
+<br clear="both">
 
-- 💻 Passionate about **Full Stack Development, AI, and Data Science**
-- 🚀 Building real-world web applications with modern technologies
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📚 Learning by building projects and solving real-world problems
-- 🎯 Aspiring Software Engineer focused on creating impactful solutions
+<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhZzJpNjQxeHRpbGZ0dXk3eGFvNTN1NndiNTdsN3J4a3NobXo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif"  />
 
----
+###
 
-## 🛠️ I Code With
+<h2 data-importer="text" align="left">About me</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-</p>
+###
 
----
+<p data-importer="text" align="left">💻 Passionate about Full Stack Development, AI, and Data Science<br><br>🚀 Building real-world web applications and continuously improving my development skills<br><br>🌱 Exploring modern technologies with hands-on projects<br><br>🎯 Aspiring Software Engineer focused on creating impactful solutions</p>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itss-surya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itss-surya&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<h2 data-importer="text" align="left">I code with</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itss-surya&theme=tokyonight&hide_border=true"/>
-</p>
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-## 🌐 Connect With Me
+###
 
-<p align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/surya-srimanth-254941293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
-  <a href="mailto:srimanthproductions@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="srimanthproductions@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itss-surya.itss-surya"/>
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/itss-surya/itss-surya/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/itss-surya/itss-surya/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itss-surya/itss-surya/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itss-surya/itss-surya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itss-surya/itss-surya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=itss-surya.itss-surya&"  />
+</div>
+
+###
