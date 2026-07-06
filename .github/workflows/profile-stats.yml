@@ -1,0 +1,29 @@
+name: Generate Profile Stats & Languages
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: itss-surya
+          filename: stats-output/stats.svg
+
+      - name: Generate Languages SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: itss-surya
+          filename: languages-output/languages.svg
+          plugin_languages: yes
