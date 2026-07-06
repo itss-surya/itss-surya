@@ -6,13 +6,13 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhZzJpNjQxeHRpbGZ0dXk3eGFvNTN1NndiNTdsN3J4a3NobXo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif"  />
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhZzJpNjQxeHRpbGZ0dXk3eGFvNTN1NndiNTdsN3J4a3NobXo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif"  />
 
 ###
 
@@ -66,11 +66,9 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itss-surya/itss-surya/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itss-surya/itss-surya/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itss-surya/itss-surya/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/itss-surya/itss-surya/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
