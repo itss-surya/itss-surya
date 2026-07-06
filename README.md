@@ -6,17 +6,17 @@
 
 ###
 
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhZzJpNjQxeHRpbGZ0dXk3eGFvNTN1NndiNTdsN3J4a3NobXo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif"  />
+
+###
+
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
 
 <p data-importer="text" align="left">💻 Passionate about Full Stack Development, AI, and Data Science<br><br>🚀 Building real-world web applications and continuously improving my development skills<br><br>🌱 Exploring modern technologies with hands-on projects<br><br>🎯 Aspiring Software Engineer focused on creating impactful solutions</p>
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBhZzJpNjQxeHRpbGZ0dXk3eGFvNTN1NndiNTdsN3J4a3NobXo1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif"  />
 
 ###
 
