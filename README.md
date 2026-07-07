@@ -60,8 +60,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=itss-surya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itss-surya&layout=compact&langs_count=5&theme=dracula" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-zeta-indol-81.vercel.app/api?username=itss-surya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-zeta-indol-81.vercel.app/api/top-langs/?username=itss-surya&layout=compact&langs_count=5&theme=dracula" alt="Top Languages" />
 </div>
 ###
 
