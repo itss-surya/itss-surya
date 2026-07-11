@@ -59,9 +59,14 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img height="150" src="https://github-readme-stats-zeta-indol-81.vercel.app/api?username=itss-surya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats-zeta-indol-81.vercel.app/api/top-langs/?username=itss-surya&layout=compact&langs_count=5&theme=dracula" alt="Top Languages" />
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/surya-srimanth-254941293/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:srimanthproductions@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
 ###
 
